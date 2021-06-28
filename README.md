@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, CSS, BOOTSTRAP e PYTHON.</strong>
+  🦄 Linguagens: <strong>JavaScript, TypeScript, Node.</strong>
 </p>
 
 <p align="left">
