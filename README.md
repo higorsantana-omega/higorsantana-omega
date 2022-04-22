@@ -1,5 +1,5 @@
 ### 💖 Sempre buscando conhecimento
-Meu aprendizado é baseado em projetos e repetição espaçada (principalmente nos estudos de arquitetura).
+Meu aprendizado é baseado em projetos e repetição espaçada.
 
 ### ⚒ Apaixonado por desenvolver soluções
 Minha motivação na programação está relacionada com o fato de que sempre a um problema e 1001 soluções para o mesmo problema.
