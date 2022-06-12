@@ -1,8 +1,25 @@
-### 💖 Sempre buscando conhecimento
-Meu aprendizado é baseado em projetos e repetição espaçada.
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+	until we don't  collapse a possibility by making a decision,<br>
+	they all coexist at the same time.<br>
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
 
-### ⚒ Apaixonado por desenvolver soluções
-Minha motivação na programação está relacionada com o fato de que sempre a um problema e 1001 soluções para o mesmo problema.
+<br>
 
-### ☕️ Quer bater um papo?
-👉🏽 Me encontre no [Linkedin](https://www.linkedin.com/in/higor-santana-360091204/)
+<details align="center">
+<summary> &#9655;</summary>
+
+<h2></h2><br>
+<p align="center">
+  <samp>
+    [<a href="https://www.linkedin.com/in/higor-santana-360091204/">linkedin</a>]
+    [<a href="mailto:higor.santanahs17@gmail.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
+
+</details>
